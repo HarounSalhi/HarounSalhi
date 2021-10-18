@@ -8,12 +8,12 @@
 ![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-aspnet-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-aspnet-informational?style=flat&logo=asp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/framework-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/framework-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/framework-node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/framework-symfony-informational?style=flat&logo=symfony&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/framework-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 
