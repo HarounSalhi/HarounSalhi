@@ -1,10 +1,30 @@
 ![Header](github_header.png "Header")
 
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/framework-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-node-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-symfony-informational?style=flat&logo=symfony&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/tools-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tools-mongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a)
+
 - 👋 Hi, I’m @HarounSalhi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+
+
 
 <div>
 <a href="https://github.com/HarounSalhi/github-readme-stats">
