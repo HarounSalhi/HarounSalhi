@@ -13,7 +13,7 @@
 <a href="https://github.com/HarounSalhi/convoychat">
   <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarounSalhi&theme=react&langs_count=7" />
 </a>
-<a href="https://github.com/HarounSalhi/github-readme-stats">
+<a href="https://github.com/HarounSalhi/github-readme-stats" display="inline-block" margin-top="20px">
   <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@HarounSalhi&theme=react" />
 </a>
 
