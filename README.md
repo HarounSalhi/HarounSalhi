@@ -20,13 +20,13 @@
 
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarounSalhi&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarounSalhi&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HarounSalhi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@HarounSalhi&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
