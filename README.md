@@ -2,10 +2,14 @@
 
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-visualstudio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-csharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-aspnet-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/framework-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/framework-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
