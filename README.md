@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/HarounSalhi/HarounSalhi/github_header.png "Header")]
+![Header](github_header.png "Header")
 
 - 👋 Hi, I’m @HarounSalhi
 - 👀 I’m interested in ...
