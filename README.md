@@ -8,13 +8,13 @@
 
 
 <a href="https://github.com/HarounSalhi/github-readme-stats">
-  <img align="left" width="61.5%"  src="https://github-readme-stats.vercel.app/api?username=HarounSalhi&count_private=true&show_icons=true&theme=react" />
+  <img align="left"   src="https://github-readme-stats.vercel.app/api?username=HarounSalhi&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/HarounSalhi/convoychat">
-  <img align="right" width="34%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarounSalhi&theme=react&langs_count=7" />
+  <img align="right"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarounSalhi&theme=react&langs_count=7" />
 </a>
 <a href="https://github.com/HarounSalhi/github-readme-stats">
-  <img align="left" width="61.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=@HarounSalhi&theme=react" />
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@HarounSalhi&theme=react" />
 </a>
 
 
