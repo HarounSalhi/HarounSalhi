@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
+<div>
 <a href="https://github.com/HarounSalhi/github-readme-stats">
   <img align="left"   src="https://github-readme-stats.vercel.app/api?username=HarounSalhi&count_private=true&show_icons=true&theme=react" />
 </a>
@@ -16,7 +16,7 @@
 <a href="https://github.com/HarounSalhi/github-readme-stats" display="inline-block" margin-top="20px">
   <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@HarounSalhi&theme=react" />
 </a>
-
+</div>
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-
+<div>
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
@@ -59,3 +59,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 HarounSalhi/HarounSalhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
