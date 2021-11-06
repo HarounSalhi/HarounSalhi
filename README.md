@@ -7,7 +7,7 @@ I'm a 23-year-old web developer from Tunisia. I mainly code in JavaScript and ja
 - 👀 I’m interested on improving my programming skills and joining online communities.
 - 🌱 I’m currently learning Data science.
 - 💞️ I’m looking to collaborate to any innovate projects.
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2], or you can reach by email <strong>haroun.salhi@esen.tn</strong>
+- 📫 You can find me <!-- on [![Twitter][1.2]][1], or --> on [![LinkedIn][2.2]][2], or you can reach by email <strong>haroun.salhi@esen.tn</strong>
 
 <!-- Icons -->
 
