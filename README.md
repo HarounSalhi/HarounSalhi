@@ -16,8 +16,8 @@ I'm a 23-year-old web developer from Tunisia. I mainly code in JavaScript and ja
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/
+[2]: https://www.linkedin.com/in/haroun-salhi/
 
 
 ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
