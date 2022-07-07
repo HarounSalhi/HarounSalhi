@@ -1,4 +1,4 @@
-![Header](Banner.png.png "Header")
+![Header](Banner.png "Header")
 
 <h1>Hi everyone 👋</h1>
 
