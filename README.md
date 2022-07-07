@@ -1,4 +1,4 @@
-![Header](Grey Minimalist Corporate Personal Profile LinkedIn Banner.png.png "Header")
+![Header](Banner.png.png "Header")
 
 <h1>Hi everyone 👋</h1>
 
