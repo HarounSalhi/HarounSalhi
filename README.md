@@ -45,11 +45,12 @@ I'm a 23-year-old web developer from Tunisia. I mainly code in JavaScript and ja
 
 <div>
 <a href="https://github.com/HarounSalhi/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarounSalhi&show_icons=true&theme=react" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarounSalhi&show_icons=true&theme=react" />
 </a>
+  <!--
 <a href="https://github.com/HarounSalhi/convoychat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarounSalhi&theme=react&langs_count=7" width="50%"/>
-</a>
+</a> -->
   <!--
 <a href="https://github.com/HarounSalhi/github-readme-stats" display="inline-block" margin-top="20px">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@HarounSalhi&theme=react" width="50%"/>
